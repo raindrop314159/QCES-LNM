@@ -1,2 +1,2 @@
 # QCES-LNM
-Laboratory &amp; Numerical Methods Class
+Coding Assignments for Laboratory &amp; Numerical Methods Class
